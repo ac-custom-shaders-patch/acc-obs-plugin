@@ -8,7 +8,7 @@ A plugin for OBS Studio providing direct access to various Assetto Corsa texture
 
 ## Installation
 
-To install plugin, [download the latest version](/releases/latest/download/acc-obs-plugin.zip), extract the DLL file to “obs-plugins\64bit” folder of your OBS Studio installation and restart the OBS Studio. Also, make sure you have OBS Integration in Small Tweaks settings enabled.
+To install plugin, [download the latest version](https://github.com/ac-custom-shaders-patch/acc-obs-plugin/releases/latest/download/acc-obs-plugin.zip), extract the DLL file to “obs-plugins\64bit” folder of your OBS Studio installation and restart the OBS Studio. Also, make sure you have OBS Integration in Small Tweaks settings enabled.
 
 <a href="https://files.acstuff.ru/shared/VPXU/20230728-162912.png" target="_blank"><img src="https://files.acstuff.ru/shared/VPXU/20230728-162912.png" width="380"></a>
 
