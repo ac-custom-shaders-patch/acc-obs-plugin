@@ -1,6 +1,6 @@
 # Assetto Corsa OBS Helper
 
-<a href="https://files.acstuff.ru/shared/R72y/demo.mp4" target="_blank"><img src="https://files.acstuff.ru/shared/4DXZ/screen.jpg" width="380"></a>
+https://github.com/ac-custom-shaders-patch/acc-obs-plugin/assets/3996502/d539d724-909e-40ca-bb36-a516511175f8
 
 ## Introduction
 
@@ -22,7 +22,7 @@ All textures are rendered only if selected in OBS Studio and currently visible. 
     - Virtual mirror: texture used for virtual mirror (if you have Real Mirrors option enabled without virtual mirror support active, Real Mirrors will pause while this texture is used).
 - Extra:
     - VR HUD: semi-transparent texture containing HUD image for 3D VR HUD.
-    - Redirected apps: separate buffer to which you can redirect some of the AC, Python or Lua apps (tool for configuring appears once the texture is selected, [demonstration](https://files.acstuff.ru/shared/R72y/demo.mp4)). With it you can, for example, install some third-party widgets to only appear in the video.
+    - Redirected apps: separate buffer to which you can redirect some of the AC, Python or Lua apps (tool for configuring appears in the list of apps in settings group once the texture is selected). With it you can, for example, install some third-party widgets to only appear in the video.
     - Android Auto: if your car has Android Auto added, it’ll be mirrored in that texture.
 - From outside:
     - Above: shows car from above, might be helpful if to monitor contacts.
