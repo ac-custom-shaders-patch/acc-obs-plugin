@@ -10,6 +10,8 @@ A plugin for OBS Studio providing direct access to various Assetto Corsa texture
 
 To install plugin, [download the latest version](/releases/latest/download/acc-obs-plugin.zip), extract the DLL file to “obs-plugins\64bit” folder of your OBS Studio installation and restart the OBS Studio. Also, make sure you have OBS Integration in Small Tweaks settings enabled.
 
+<a href="https://files.acstuff.ru/shared/VPXU/20230728-162912.png" target="_blank"><img src="https://files.acstuff.ru/shared/VPXU/20230728-162912.png" width="380"></a>
+
 ## New textures
 
 All textures are rendered only if selected in OBS Studio and currently visible. You can also optionally lower refresh rate, that could also help with performance. 
@@ -32,7 +34,7 @@ Third-party Lua apps can add their own textures, scroll a bit further for more i
 ## Known issues
 
 - For direct texture forwarding to work, make sure OBS Studio uses the same GPU as does Assetto Corsa.
-- Only 32-bit OBS Studio for Windows is currently supported.
+- Only 64-bit OBS Studio for Windows is currently supported.
 
 # Custom Textures
 
